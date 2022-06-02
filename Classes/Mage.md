@@ -11,5 +11,6 @@ The mage will inherit its mana type from the "[[Magic]]" type and will be able t
 ### Spells:
 | Spell Name | Damage | Cost (MP) | LVL | [EA](Legend) (Optional) |
 | - | - | -| -| - |
+| Fire ball | 5 | 10 | 5 | Fire |
 
 
