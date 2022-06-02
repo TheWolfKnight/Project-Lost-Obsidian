@@ -38,4 +38,4 @@ Duelist
 Spellblade
 Guardian
 Elementalist
-Shinobi - Handsigns
+Shinobi

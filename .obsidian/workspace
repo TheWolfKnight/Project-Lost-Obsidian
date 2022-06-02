@@ -7,12 +7,8 @@
         "id": "b9ceff4cda1cc8aa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Classes.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Enemy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "b9ceff4cda1cc8aa",
   "lastOpenFiles": [
-    "Classes.md",
-    "Moves.md",
-    "Characters/Antagonist.md",
-    "Classes/Knight.md",
-    "Classes/Mage.md",
-    "Legend.md",
-    "Classes/Paladin.md",
-    "Magic System/Magic.md",
-    "Magic System/Faith.md",
-    "Magic System/Elements/Elemental Magic.md"
+    "Development log/GDS Notes/Notes for GDScript.md",
+    "Development log/GDS Notes/GDScript Types.md",
+    "Enemy concepts/Bandits.md",
+    "Enemy concepts/Demons.md",
+    "Enemy concepts/Ocultist.md",
+    "Setting/Setting idéers.md",
+    "Magic System/Elements/Elemental Magic.md",
+    "Magic System/Elements/Holy.md",
+    "Classes/Class concepts.md",
+    "Moves.md"
   ]
 }
