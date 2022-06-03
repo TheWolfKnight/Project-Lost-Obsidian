@@ -7,8 +7,12 @@
         "id": "b9ceff4cda1cc8aa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Development log/GDS Notes/Notes for GDScript.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Development log/GDS Notes/Notes for GDScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,14 +90,14 @@
   "active": "b9ceff4cda1cc8aa",
   "lastOpenFiles": [
     "Development log/GDS Notes/Notes for GDScript.md",
+    "Classes/Mage.md",
+    "Classes/Knight.md",
+    "Classes/Class concepts.md",
     "Development log/GDS Notes/GDScript Types.md",
     "Enemy concepts/Bandits.md",
     "Enemy concepts/Demons.md",
     "Enemy concepts/Ocultist.md",
     "Setting/Setting idéers.md",
-    "Magic System/Elements/Elemental Magic.md",
-    "Magic System/Elements/Holy.md",
-    "Classes/Class concepts.md",
-    "Moves.md"
+    "Magic System/Elements/Elemental Magic.md"
   ]
 }

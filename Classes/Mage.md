@@ -13,4 +13,3 @@ The mage will inherit its mana type from the "[[Magic]]" type and will be able t
 | - | - | -| -| - |
 | Fire ball | 5 | 10 | 5 | Fire |
 
-
